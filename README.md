@@ -90,9 +90,9 @@ $$Hash(str) = (Hash * Seed + str[i]) \% TableSize$$
 2. **搜索交互：** 用户输入 "data"，系统瞬间打印如下表格：
 
    ```plaintxt
-   >>> 搜索结果: "data" 
-   >>> [1] source_1.txt (出现 5 次) 
-   >>> [2] source_2.txt (出现 2 次)
+   >>> 搜索结果: "I" 
+   >>> [1] source_1.txt (出现 2 次) 
+   >>> [2] source_2.txt (出现 22 次)
 
 
 ## 测试数据及测试结果
